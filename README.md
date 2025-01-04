@@ -1,19 +1,12 @@
-# Tekyard Salary Slip HTML Template
+# Salary Slip HTML Template
 
 This repository contains an HTML template for generating a salary slip. The design is responsive and uses **Bootstrap 5.1.3**, making it compatible with various devices. The template showcases essential employee salary details, including regular hours, overtime, attendance, and bonuses.
+I made this for Tekyard during my internship with them.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
-- [How to Use](#how-to-use)
-- [Sections Explained](#sections-explained)
-- [Customization](#customization)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## Features
 
@@ -44,9 +37,3 @@ This repository contains an HTML template for generating a salary slip. The desi
   - Bootstrap CSS and JS (CDN).
 
 ---
-
-## File Structure
-
-```plaintext
-.
-├── index.html  # Main salary slip template
